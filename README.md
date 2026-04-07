@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanishstha
 - 👀 I’m interested in AI Agents and Agentic Commerce 
-- 🌱 I’m currently learning Pytorch
+- 🌱 I’m currently building with Pytorch
 - 📫 Please reach me on shresthasanish99@gmail.com
 
 <!---
